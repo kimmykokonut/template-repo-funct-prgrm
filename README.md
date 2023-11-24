@@ -1,8 +1,9 @@
 # Template Repository
 
-#### with __tests__, coverage, jest, .env, .gitignore, lint, cleanwebpack, htmlwebpack 
+#### updated to include ESLint for functional programming
+with __tests__, coverage, jest, .env, .gitignore, lint, cleanwebpack, htmlwebpack 
 
-#### By (Your Name Here)
+#### By Kim Robinson
 
 ## Technologies Used
 
